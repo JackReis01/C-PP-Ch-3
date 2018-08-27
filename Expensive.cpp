@@ -27,7 +27,7 @@ int main()
 	cout << "The total of " << firstNum << " and " << secondNum << " equals " << mult << endl;
 	//Division
 	div = firstNum / secondNum; // Math
-	cout << "The division of " << firstNum << " and " << secondNum << " equals " << div << endl;
+	cout << "The quotient of " << firstNum << " and " << secondNum << " equals " << div << endl;
 	//Remainder
 	rem = firstNum % secondNum; // Math
 	cout << "The remainder of " << firstNum << " and " << secondNum << " equals " << rem << endl;
